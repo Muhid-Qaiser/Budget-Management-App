@@ -1,0 +1,109 @@
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Form1.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.RegisterForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CategoryForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.DashboardForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.IncomeForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.ExpensesForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CategoryForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.DashboardForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.ExpensesForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.FeedbackForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Form1.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.IncomeForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.RegisterForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.dll
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.xml
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CryptoForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CopyComplete
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.dll
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.xml
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CategoryForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Charts.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CryptoForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.DashboardForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.ExpensesForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.FeedbackForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Form1.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.IncomeForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.RegisterForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CopyComplete
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.dll
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.xml
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CategoryForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Charts.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CryptoForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.DashboardForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.ExpensesForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.FeedbackForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Form1.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.IncomeForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.RegisterForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CopyComplete
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts - Copy\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm2.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe.config
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\Expense_Tracker.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.dll
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\bin\Debug\HtmlAgilityPack.xml
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.AssemblyReference.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CategoryForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Charts.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.CryptoForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.DashboardForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.ExpensesForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.FeedbackForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Form1.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.IncomeForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.MainForm2.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.Properties.Resources.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.RegisterForm.resources
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.GenerateResource.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.csproj.CopyComplete
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.exe
+D:\Documents-D\University\Semester 4\FSE\my own ting - Modified - With Charts -  BDV\Expense_Tracker\Expense_Tracker\obj\Debug\Expense_Tracker.pdb

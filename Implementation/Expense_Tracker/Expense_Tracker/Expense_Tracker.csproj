@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E88E036E-4958-4697-B60D-8C752ABBAD3E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Expense_Tracker</RootNamespace>
+    <AssemblyName>Expense_Tracker</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="HtmlAgilityPack, Version=1.11.60.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.60\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CategoryData.cs" />
+    <Compile Include="CategoryForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CategoryForm.Designer.cs">
+      <DependentUpon>CategoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Charts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Charts.Designer.cs">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CryptoForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CryptoForm.Designer.cs">
+      <DependentUpon>CryptoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashboardForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpensesData.cs" />
+    <Compile Include="ExpensesForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExpensesForm.Designer.cs">
+      <DependentUpon>ExpensesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FeedbackForm.Designer.cs">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IncomeData.cs" />
+    <Compile Include="IncomeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IncomeForm.Designer.cs">
+      <DependentUpon>IncomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm2.Designer.cs">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CategoryForm.resx">
+      <DependentUpon>CategoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts.resx">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CryptoForm.resx">
+      <DependentUpon>CryptoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardForm.resx">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpensesForm.resx">
+      <DependentUpon>ExpensesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackForm.resx">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncomeForm.resx">
+      <DependentUpon>IncomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm2.resx">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aqua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\rocket1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\angry2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\neutral2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\sad2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\surprised2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\happy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\angry3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\angry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\neutral.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\sad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\surprised.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\accountant2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\categorie2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\categorie3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\dashboard6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\categorie4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\income2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\income3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\income4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\incomes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\incomes3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\income_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\income_in2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\expenses2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\bags.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\feedback2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crypto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crpyto_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crpyto_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\chart2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\chart3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\logout2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\user3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money-logo4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\moneybag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\moneybag3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\money10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crpyto_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crypto5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\crypto6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\bitcoin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\chart4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\bitcoin2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
